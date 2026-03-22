@@ -1,3 +1,13 @@
+@media (max-width: 768px){
+  nav{
+    flex-wrap: wrap;
+  }
+
+  .btn{
+    flex: 1;
+    min-width: 80px;
+  }
+}
 nav {
 	border-radius: 100px;
 	background: rgba(255, 255, 255, 0.8);
