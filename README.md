@@ -29,12 +29,12 @@
 # 📸 Redes Sociais
  <div class="redes">
 	<a href="https://discord.gg/dcVe9Ejj" target="_blank">
-	<img class="discord" src="https://i.imgur.com/BvCKtuO.png">
+	Discord
 	</a>
 	<a href="https://www.instagram.com/ivan.cruz__?igsh=MXdmbm9hcHMzMW41ag==" target="_blank">
-	<img class="instagram" src="https://i.imgur.com/eRyAe8m.png">
+	Instagram
 	</a>
 	<a href="https://www.linkedin.com/in/ivan-cruz-772076393?utm_source=share&utm_campaing=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-	<img class="linkedin" src="https://i.imgur.com/e6Db1tk.png">
+	LinkedIn
 	</a>
  </div>
