@@ -10,7 +10,7 @@
 # 📌 Projeto
 <p>Portfólio de projetos focado em desenvolvimento front-end moderno, com foco em performance e UI.<br>Este projeto foi feito com o objetivo de me apresentar e aprender mais sobre o desenvolvimento front-end.</p>
 
-<a href="ivancruzz.vercel.app" target="_blank">Acessar portfólio<a>
+<a href="ivancruzz.vercel.app">Acessar portfólio<a>
 
 # ⚡ Projetos em Desenvolvimento
 <p><strong>Hourse - </strong>Um site que haverá diversos mini-games de 2 jogadores para ser <br>utilizado como forma de entretenimento ou apostas.</p>
