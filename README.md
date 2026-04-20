@@ -19,8 +19,8 @@
 <a href="https://github.com/iBeenBS/hourse">Hourse</a></p>
 
 # 📸 Redes Sociais
-<a href="https://linkedin.com/in/ivan-cruz-772076393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> 
-a href="https://discord.gg/dcVe9Ejj" target="_blank">
+ 
+<a href="https://discord.gg/dcVe9Ejj" target="_blank">
 								<img class="discord" src="https://i.imgur.com/BvCKtuO.png">
 								</a>
 								<a href="https://www.instagram.com/ivan.cruz__?igsh=MXdmbm9hcHMzMW41ag==" target="_blank">
