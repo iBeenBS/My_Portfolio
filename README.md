@@ -26,7 +26,7 @@
 
 # 📸 Redes Sociais
 
-<a href="https://discord.gg/dcVe9Ejj" target="_blank">▸ 🔗 Discord</a><br>
+▸<a href="https://discord.gg/dcVe9Ejj" target="_blank"> 🔗 Discord</a><br>
 <a href="https://www.instagram.com/ivan.cruz__?igsh=MXdmbm9hcHMzMW41ag==" target="_blank">▸ 📸 Instagram</a><br>
 <a href="https://www.linkedin.com/in/ivan-cruz-772076393?utm_source=share&utm_campaing=share_via&utm_content=profile&utm_medium=android_app" target="_blank">▸ 🔧 LinkedIn</a> 
 
