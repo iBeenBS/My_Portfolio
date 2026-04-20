@@ -6,8 +6,7 @@
 ✔ Estou aberto para dicas sobre o que melhorar na minha <strong>UI/UX</strong> e caminhos que devo seguir na minha carreira de <strong>engenheiro de software</strong>.
 
 # Projeto
-<p>Portfólio de projetos focado em desenvolvimento front-end moderno, com foco em performance e UI.</p>
-<p>Este projeto foi feito com o objetivo de me apresentar e aprender mais sobre o desenvolvimento front-end.</p>
+<p>Portfólio de projetos focado em desenvolvimento front-end moderno, com foco em performance e UI.<br>Este projeto foi feito com o objetivo de me apresentar e aprender mais sobre o desenvolvimento front-end.</p>
 
 <a href="ivancruzz.vercel.app" target="_blank">Acessar portfólio<a>
 # Redes Sociais
