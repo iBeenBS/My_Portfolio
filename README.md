@@ -1,11 +1,11 @@
 
 
-# Ivan Cruz | Backend Developer
+# Ivan Cruz | Frontend Developer
 <h3>HTML, CSS & JS.</h3>
 📖 Estudando <strong>Java, Node.js, SQL</strong> and <strong>JavaScript.</strong>
 
 ✨ Iniciei recentemente no desenvolvimento web.<br>
-✔ Estou aberto para dicas sobre o que melhorar na minha <strong>UI/UX</strong> e caminhos que devo seguir na minha carreira de <strong>engenheiro de software</strong>.
+✔ Desenvolvedor em evolução, focado em melhorar habilidades em <strong>UI/UX</strong> e desenvolvimento web.
 
 # 📌 Projeto
 <p>Portfólio de projetos focado em desenvolvimento front-end moderno, com foco em performance e UI.<br>Este projeto foi feito com o objetivo de me apresentar e aprender mais sobre o desenvolvimento front-end.</p>
