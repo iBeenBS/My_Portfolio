@@ -21,7 +21,7 @@
 <a href="https://github.com/iBeenBS/hourse">Hourse</a></p>
 
 # 🧠 Aprendizados
-▸ Estruturação de páginas;
+▸ Estruturação de páginas;<br>
 ▸ Responsividade.
 
 # 📸 Redes Sociais
