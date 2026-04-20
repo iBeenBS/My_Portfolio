@@ -1,9 +1,3 @@
-<style>
-  .href-hourse {
-    margin-top: -20px;
-  }
-</style>
-
 # Ivan Cruz | Backend Developer
 <h3>HTML, CSS & JS.</h3>
 📖 Estudando <strong>Java, Node.js, SQL</strong> and <strong>JavaScript.</strong>
@@ -21,8 +15,8 @@
 <h4>Sobre a Hourse</h4>
 <p>Na minha escola atual, minha professora de Educação financeira criou uma <br>moeda para a escola ter como forma de dinheiro para simular a vida real. Então decidi criar <br>este site para as pessoas poderem apostar e se divertirem (como na vida real).</p>
 
-<span><h4><strong>Repositório</strong></h4>
-<a href="" class="href-house">Hourse</a></span>
+<p><strong>Repositório: </strong>
+<a href="">Hourse</a></p>
 
 # Redes Sociais
 <a href="https://linkedin.com/in/ivan-cruz-772076393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
