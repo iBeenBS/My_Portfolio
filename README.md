@@ -9,5 +9,10 @@
 <p>Portfólio de projetos focado em desenvolvimento front-end moderno, com foco em performance e UI.<br>Este projeto foi feito com o objetivo de me apresentar e aprender mais sobre o desenvolvimento front-end.</p>
 
 <a href="ivancruzz.vercel.app" target="_blank">Acessar portfólio<a>
+
+# Projetos em Desenvolvimento
+<p><strong>Hourse - </strong>Um site que haverá diversos mini-games de 2 jogadores para ser utilizado como forma de entretenimento ou apostas.</p>
+<h4>Sobre a Hourse</h4>
+<p>Na minha escola atual, minha professora de Educação financeira criou uma moeda para a escola inteira ter como forma de dinheiro para simular a vida real</p>
 # Redes Sociais
 <a href="https://linkedin.com/in/ivan-cruz-772076393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
