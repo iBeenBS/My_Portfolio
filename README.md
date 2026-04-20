@@ -1,9 +1,9 @@
 # Ivan Cruz | Backend Developer
 <h3>HTML, CSS & JS.</h3>
-📖 Learning <strong>Java, Node.js, SQL</strong> and <strong>JavaScript.</strong>
+📖 Estudando <strong>Java, Node.js, SQL</strong> and <strong>JavaScript.</strong>
 
-✨ I recently started in web development.<br>
-✔ I'm open to feedback on how to improve my <strong>UI/UX</strong> skills and advice on career paths for my <strong>journey</strong> as a software engineer.
+✨ Iniciei recentemente no desenvolvimento web.<br>
+✔ Estou aberto para dicas sobre o que melhorar na minha <strong>UI/UX</strong> e caminhos que devo seguir na minha carreira de <strong>engenheiro de software</strong>.
 
 # Social Media
 <a href="https://linkedin.com/in/ivan-cruz-772076393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
