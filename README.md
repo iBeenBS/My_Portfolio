@@ -1,9 +1,3 @@
-<styles>
-	.redes img {
-		width: 25px;
-		height: 25px;
-	}
-</styles>
 
 
 # Ivan Cruz | Backend Developer
