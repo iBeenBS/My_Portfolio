@@ -1,5 +1,5 @@
 # Ivan Cruz FrontEnd Developer
-HTML, CSS & JS.\n
+<h3>HTML, CSS & JS.</h3>
 📖 Learning Java, Node.js, SQL and JavaScript.
 
 ✨ I recently started in web development.
