@@ -20,6 +20,10 @@
 <p><strong>Repositório: </strong>
 <a href="https://github.com/iBeenBS/hourse">Hourse</a></p>
 
+# 🧠 Aprendizados
+▸ Estruturação de páginas;
+▸ Responsividade.
+
 # 📸 Redes Sociais
 
 <a href="https://discord.gg/dcVe9Ejj" target="_blank">Discord</a>
