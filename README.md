@@ -6,4 +6,4 @@
 ✔ I'm open to feedback on how to improve my <strong>UI/UX</strong> skills and advice on career paths for my <strong>journey</strong> as a software engineer.
 
 # Social Media
-<a href="">LinkedIn</a>
+<a href="https://linkedin.com/in/ivan-cruz-772076393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
