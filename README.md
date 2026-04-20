@@ -1,8 +1,8 @@
 # Ivan Cruz FrontEnd Developer
 HTML, CSS & JS.
-Learning Java, Node.js, SQL and JavaScript.
+📖 Learning Java, Node.js, SQL and JavaScript.
 
-I recently started in web development.
+✨ I recently started in web development.
 
 # About me
 I was born on July 12, 2010, in Santo André, São Paulo, Brazil.
