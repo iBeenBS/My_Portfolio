@@ -21,14 +21,14 @@
 <a href="https://github.com/iBeenBS/hourse">Hourse</a></p>
 
 # 📸 Redes Sociais
- <div class="redes">
+
 	<a href="https://discord.gg/dcVe9Ejj" target="_blank">
 	Discord
-	</a> 
+	</a>
 	<a href="https://www.instagram.com/ivan.cruz__?igsh=MXdmbm9hcHMzMW41ag==" target="_blank">
 	Instagram
 	</a> 
 	<a href="https://www.linkedin.com/in/ivan-cruz-772076393?utm_source=share&utm_campaing=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 	LinkedIn
 	</a> 
- </div>
+
