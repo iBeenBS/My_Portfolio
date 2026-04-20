@@ -15,7 +15,7 @@
 <h4>Sobre a Hourse</h4>
 <p>Na minha escola atual, minha professora de Educação financeira criou uma <br>moeda para a escola ter como forma de dinheiro para simular a vida real. Então decidi criar <br>este site para as pessoas poderem apostar e se divertirem (como na vida real).</p>
 
-<strong>Repositório</strong>
+<strong>Repositório</strong><br>
 <a href="">Hourse</a>
 
 # Redes Sociais
