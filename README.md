@@ -15,7 +15,7 @@
 # ⚡ Projetos em Desenvolvimento
 <p><strong>Hourse - </strong>Um site que haverá diversos mini-games de 2 jogadores para ser <br>utilizado como forma de entretenimento ou apostas.</p>
 <h4>❗ Sobre a Hourse</h4>
-<p>Uma plataforma com mini-games para 2 jogadores, focada em entretenimento. Desenvolvida para simular um sistema de apostas baseado em uma moeda fictícia.</p>
+<p>Uma plataforma com mini-games para 2 jogadores, focada em entretenimento. Desenvolvida para simular<br>um sistema de apostas baseado em uma moeda fictícia.</p>
 
 <p><strong>Repositório: </strong>
 <a href="https://github.com/iBeenBS/hourse">Hourse</a></p>
