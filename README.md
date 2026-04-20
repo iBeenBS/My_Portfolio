@@ -5,5 +5,5 @@
 ✨ Iniciei recentemente no desenvolvimento web.<br>
 ✔ Estou aberto para dicas sobre o que melhorar na minha <strong>UI/UX</strong> e caminhos que devo seguir na minha carreira de <strong>engenheiro de software</strong>.
 
-# Social Media
+# Redes Sociais
 <a href="https://linkedin.com/in/ivan-cruz-772076393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
