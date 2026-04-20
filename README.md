@@ -11,7 +11,7 @@
 <a href="ivancruzz.vercel.app" target="_blank">Acessar portfólio<a>
 
 # Projetos em Desenvolvimento
-<p><strong>Hourse - </strong>Um site que haverá diversos mini-games de 2 jogadores para ser utilizado como forma de entretenimento ou apostas.</p>
+<p><strong>Hourse - </strong>Um site que haverá diversos mini-games de 2 jogadores para ser <br>utilizado como forma de entretenimento ou apostas.</p>
 <h4>Sobre a Hourse</h4>
 <p>Na minha escola atual, minha professora de Educação financeira criou uma moeda para a escola inteira ter como forma de dinheiro para simular a vida real</p>
 # Redes Sociais
