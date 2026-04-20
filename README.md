@@ -3,7 +3,7 @@
 📖 Learning <bold>Java, Node.js, SQL and JavaScript.</bold>
 
 ✨ I recently started in web development.
-
+✔ I'm open to feedback on how to improve my UI/UX skills and advice on career paths for my journey as a software engineer.
 # About me
 I was born on July 12, 2010, in Santo André, São Paulo, Brazil.
 I am currently in high school, attending full-time.
