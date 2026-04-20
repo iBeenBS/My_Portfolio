@@ -2,7 +2,7 @@
 <h3>HTML, CSS & JS.</h3>
 📖 Learning <bold>Java, Node.js, SQL and JavaScript.</bold>
 
-✨ I recently started in web development.
+✨ I recently started in web development.<br>
 ✔ I'm open to feedback on how to improve my UI/UX skills and advice on career paths for my journey as a software engineer.
 # About me
 I was born on July 12, 2010, in Santo André, São Paulo, Brazil.
