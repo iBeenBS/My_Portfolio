@@ -1,4 +1,4 @@
-# Ivan Cruz | FrontEnd Developer
+# Ivan Cruz | Backend Developer
 <h3>HTML, CSS & JS.</h3>
 📖 Learning <strong>Java, Node.js, SQL</strong> and <strong>JavaScript.</strong>
 
