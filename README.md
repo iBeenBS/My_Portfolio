@@ -15,8 +15,8 @@
 <h4>Sobre a Hourse</h4>
 <p>Na minha escola atual, minha professora de Educação financeira criou uma <br>moeda para a escola ter como forma de dinheiro para simular a vida real. Então decidi criar <br>este site para as pessoas poderem apostar e se divertirem (como na vida real).</p>
 
-<strong>Repositório</strong><br>
-<a href="">Hourse</a>
+<span><strong>Repositório</strong><br>
+<a href="">Hourse</a></span>
 
 # Redes Sociais
 <a href="https://linkedin.com/in/ivan-cruz-772076393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
