@@ -1,3 +1,11 @@
+<style>
+	.redes img {
+		width: 25px;
+		height: 25px;
+	}
+</style>
+
+
 # Ivan Cruz | Backend Developer
 <h3>HTML, CSS & JS.</h3>
 📖 Estudando <strong>Java, Node.js, SQL</strong> and <strong>JavaScript.</strong>
@@ -19,13 +27,14 @@
 <a href="https://github.com/iBeenBS/hourse">Hourse</a></p>
 
 # 📸 Redes Sociais
- 
-<a href="https://discord.gg/dcVe9Ejj" target="_blank">
-								<img class="discord" src="https://i.imgur.com/BvCKtuO.png">
-								</a>
-								<a href="https://www.instagram.com/ivan.cruz__?igsh=MXdmbm9hcHMzMW41ag==" target="_blank">
-								<img class="instagram" src="https://i.imgur.com/eRyAe8m.png">
-								</a>
-								<a href="https://www.linkedin.com/in/ivan-cruz-772076393?utm_source=share&utm_campaing=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-								<img class="linkedin" src="https://i.imgur.com/e6Db1tk.png">
-								</a>
+ <div class="redes">
+	<a href="https://discord.gg/dcVe9Ejj" target="_blank">
+	<img class="discord" src="https://i.imgur.com/BvCKtuO.png">
+	</a>
+	<a href="https://www.instagram.com/ivan.cruz__?igsh=MXdmbm9hcHMzMW41ag==" target="_blank">
+	<img class="instagram" src="https://i.imgur.com/eRyAe8m.png">
+	</a>
+	<a href="https://www.linkedin.com/in/ivan-cruz-772076393?utm_source=share&utm_campaing=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+	<img class="linkedin" src="https://i.imgur.com/e6Db1tk.png">
+	</a>
+ </div>
